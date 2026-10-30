@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=36BCF7&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+Kelvin+Ferreira;Desenvolvimento+de+Software;Aplicações+Web+e+Sistemas" alt="Kelvin Ferreira — Desenvolvimento de Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Kelvin+Ferreira;Especialista+em+Laravel;Arquitetura+e+Engenharia+de+Software" alt="Kelvin Ferreira — Especialista em Laravel" />
 </h1>
 
 <p align="center">
@@ -15,13 +15,57 @@
 
 ## Sobre
 
-Atuo com desenvolvimento de software, com foco em aplicações web. Busco escrever código limpo, de fácil manutenção e orientado a resultado.
+Especialista em **Laravel**, com atuação full stack nos ecossistemas PHP, JavaScript/TypeScript e Java. Meu foco é transformar necessidades de negócio em soluções sustentáveis: arquitetura clara, performance, segurança e entrega contínua.
 
-## Tecnologias
+## Como atuo
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,docker,postgres,mysql,vscode,figma&perline=7" alt="Tecnologias" />
-</p>
+| Frente | O que entrego |
+| --- | --- |
+| **Arquitetura** | Desenho de APIs e contratos entre back-end e front-end, separação de responsabilidades e decisões técnicas com trade-offs explícitos. |
+| **Performance** | Modelagem e indexação de banco, eliminação de consultas N+1, cache com invalidação definida e processamento assíncrono em filas. |
+| **Qualidade** | Código limpo, testes automatizados, padronização com linters e formatadores, revisão de código. |
+| **Entrega** | CI/CD, versionamento semântico, releases e ambientes separados de desenvolvimento e produção. |
+| **Produto** | Alinhamento técnico com o negócio: SEO técnico, acessibilidade e experiência do usuário como parte da base. |
+
+## Soluções em que atuo
+
+- **Plataformas full stack** com API Laravel e front-end Next.js/React: autenticação com Sanctum e login social, tempo real com WebSockets, integrações com IA e geração de documentos em PDF.
+- **Portais de conteúdo** com CMS headless (Strapi) e PostgreSQL, com SEO técnico (metadados, dados estruturados, sitemap) e fluxo editorial.
+- **Design system** com tokens e temas claro/escuro, mantendo consistência visual entre telas.
+
+## Stack
+
+<table>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Vue.js%202%20e%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js 2 e 3" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Bancos de dados</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </td>
+  </tr>
+</table>
 
 ## Atividade no GitHub
 
