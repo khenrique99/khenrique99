@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Kelvin+Ferreira;Especialista+em+Laravel;Arquitetura+e+Engenharia+de+Software" alt="Kelvin Ferreira — Especialista em Laravel" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Kelvin+Ferreira;Especialista+em+Laravel;Arquitetura+e+Engenharia+de+Software;Infraestrutura+e+DevOps" alt="Kelvin Ferreira — Especialista em Laravel" />
 </h1>
 
 <p align="center">
@@ -25,12 +25,14 @@ Especialista em **Laravel**, com atuação full stack nos ecossistemas PHP, Java
 | **Performance** | Modelagem e indexação de banco, eliminação de consultas N+1, cache com invalidação definida e processamento assíncrono em filas. |
 | **Qualidade** | Código limpo, testes automatizados, padronização com linters e formatadores, revisão de código. |
 | **Entrega** | CI/CD, versionamento semântico, releases e ambientes separados de desenvolvimento e produção. |
+| **Infraestrutura** | Deploy em servidores Linux com pipelines automatizados, scripts de deploy, serviços publicados de forma independente (API e front-end), banco de dados isolado da internet e configuração por variáveis de ambiente. |
 | **Produto** | Alinhamento técnico com o negócio: SEO técnico, acessibilidade e experiência do usuário como parte da base. |
 
 ## Soluções em que atuo
 
 - **Plataformas full stack** com API Laravel e front-end Next.js/React: autenticação com Sanctum e login social, tempo real com WebSockets, integrações com IA e geração de documentos em PDF.
 - **Portais de conteúdo** com CMS headless (Strapi) e PostgreSQL, com SEO técnico (metadados, dados estruturados, sitemap) e fluxo editorial.
+- **Pipelines de deploy** com GitHub Actions em runner self-hosted: publicação automática a cada push em produção, com checkout parcial do monorepo e execução apenas do serviço que mudou.
 - **Design system** com tokens e temas claro/escuro, mantendo consistência visual entre telas.
 
 ## Stack
@@ -63,6 +65,15 @@ Especialista em **Laravel**, com atuação full stack nos ecossistemas PHP, Java
       <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infra e DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Shell%20Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell Script" />
     </td>
   </tr>
 </table>
