@@ -93,7 +93,11 @@ Especialista em **Laravel**, com atuação full stack nos ecossistemas PHP, Java
 
 <!-- Esta lista é preenchida automaticamente pelo workflow update-commits.yml -->
 <!--START_COMMITS-->
-- Os commits reais aparecem aqui depois que o workflow rodar pela primeira vez.
+- [`113133a`](https://github.com/khenrique99/khenrique99/commit/113133a7d8b314e42751f93a6463d755123f379f) feat: adiciona infraestrutura e DevOps ao perfil — **khenrique99/khenrique99**
+- [`36cfa37`](https://github.com/khenrique99/khenrique99/commit/36cfa377cbc2df1a40805fd5e52ca7da2c1aecb3) refactor: posiciona o perfil como especialista em Laravel — **khenrique99/khenrique99**
+- [`9ae8302`](https://github.com/khenrique99/khenrique99/commit/9ae83027597b5b7775be1d813015799c237f2fba) refactor: deixa o README mais profissional — **khenrique99/khenrique99**
+- [`b407120`](https://github.com/khenrique99/khenrique99/commit/b4071203adb62747f02cd3af47a2729b1fd45e17) feat: adiciona README de perfil — **khenrique99/khenrique99**
+- [`d47de1d`](https://github.com/khenrique99/dashboard_test/commit/d47de1d29d0a0166ff122b6ebc34738f2319f798) first commit — **khenrique99/dashboard_test**
 <!--END_COMMITS-->
 
 ### Contribuições
