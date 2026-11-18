@@ -93,11 +93,11 @@ Especialista em **Laravel**, com atuação full stack nos ecossistemas PHP, Java
 
 <!-- Esta lista é preenchida automaticamente pelo workflow update-commits.yml -->
 <!--START_COMMITS-->
+- [`ba0b565`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/ba0b5656e51c55b74c7ae506ba475486e3a812e9) chore(release): 1.0.0 — **khenrique99/ETS2---Airbrake-Audio**
+- [`3e9c939`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/3e9c9398b8d7e8741f80d363cf5f8bc50b05f1b0) docs(readme): document the settings page and mark 1.0.0 as stable — **khenrique99/ETS2---Airbrake-Audio**
+- [`240f5bc`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/240f5bc0576b1d9fd6178b3609ae4e03697a0f44) feat(ui): add settings page opened by a hotkey — **khenrique99/ETS2---Airbrake-Audio**
 - [`c1b316d`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/c1b316d628346fcb57aefc8fba84e5f176ce3d4c) docs(changelog): add 0.1.0 — **khenrique99/ETS2---Airbrake-Audio**
 - [`00b3fc1`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/00b3fc16a8091f5b8bd5280b70342aadf2f8d138) docs: mark plugin as validated in-game and credit third-party brake sound — **khenrique99/ETS2---Airbrake-Audio**
-- [`5532c14`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/5532c142ec39a6c3e81c5f8493ba823e54707148) chore(release): bump version to 0.1.0 — **khenrique99/ETS2---Airbrake-Audio**
-- [`3c619ff`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/3c619ff7e8d3de887c4fb3d740e3611a12434ca8) Upload assets/sounds/brake_loop.wav — **khenrique99/ETS2---Airbrake-Audio**
-- [`3e0c081`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/3e0c081e0b2ecdd47a6d6eeda5fade3296c040a5) Delete assets/sounds/brake_loop.wav — **khenrique99/ETS2---Airbrake-Audio**
 <!--END_COMMITS-->
 
 ### Contribuições
