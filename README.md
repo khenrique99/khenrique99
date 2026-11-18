@@ -93,11 +93,11 @@ Especialista em **Laravel**, com atuação full stack nos ecossistemas PHP, Java
 
 <!-- Esta lista é preenchida automaticamente pelo workflow update-commits.yml -->
 <!--START_COMMITS-->
+- [`c1b316d`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/c1b316d628346fcb57aefc8fba84e5f176ce3d4c) docs(changelog): add 0.1.0 — **khenrique99/ETS2---Airbrake-Audio**
+- [`00b3fc1`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/00b3fc16a8091f5b8bd5280b70342aadf2f8d138) docs: mark plugin as validated in-game and credit third-party brake sound — **khenrique99/ETS2---Airbrake-Audio**
+- [`5532c14`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/5532c142ec39a6c3e81c5f8493ba823e54707148) chore(release): bump version to 0.1.0 — **khenrique99/ETS2---Airbrake-Audio**
 - [`3c619ff`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/3c619ff7e8d3de887c4fb3d740e3611a12434ca8) Upload assets/sounds/brake_loop.wav — **khenrique99/ETS2---Airbrake-Audio**
 - [`3e0c081`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/3e0c081e0b2ecdd47a6d6eeda5fade3296c040a5) Delete assets/sounds/brake_loop.wav — **khenrique99/ETS2---Airbrake-Audio**
-- [`52065da`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/52065da0b3e825f0b9604dd5a3334575c3d2170f) docs(changelog): write entries in Portuguese and English, pt-BR first — **khenrique99/ETS2---Airbrake-Audio**
-- [`b8750a9`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/b8750a945dd0841b212fc41d5f50f091af2b367b) docs(credits): list pt-BR first, then en, in every section — **khenrique99/ETS2---Airbrake-Audio**
-- [`2377ae0`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/2377ae01ae12e260f35d9e7e3dd538e7d775862e) docs(config): document every ini option in Portuguese and English — **khenrique99/ETS2---Airbrake-Audio**
 <!--END_COMMITS-->
 
 ### Contribuições
