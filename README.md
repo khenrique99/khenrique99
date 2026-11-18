@@ -93,11 +93,11 @@ Especialista em **Laravel**, com atuação full stack nos ecossistemas PHP, Java
 
 <!-- Esta lista é preenchida automaticamente pelo workflow update-commits.yml -->
 <!--START_COMMITS-->
-- [`cd154da`](https://github.com/khenrique99/khenrique99/commit/cd154daab2893a70a2f6fb7e435bce25963ef6c1) Change name in README header — **khenrique99/khenrique99**
-- [`113133a`](https://github.com/khenrique99/khenrique99/commit/113133a7d8b314e42751f93a6463d755123f379f) feat: adiciona infraestrutura e DevOps ao perfil — **khenrique99/khenrique99**
-- [`36cfa37`](https://github.com/khenrique99/khenrique99/commit/36cfa377cbc2df1a40805fd5e52ca7da2c1aecb3) refactor: posiciona o perfil como especialista em Laravel — **khenrique99/khenrique99**
-- [`9ae8302`](https://github.com/khenrique99/khenrique99/commit/9ae83027597b5b7775be1d813015799c237f2fba) refactor: deixa o README mais profissional — **khenrique99/khenrique99**
-- [`b407120`](https://github.com/khenrique99/khenrique99/commit/b4071203adb62747f02cd3af47a2729b1fd45e17) feat: adiciona README de perfil — **khenrique99/khenrique99**
+- [`3c619ff`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/3c619ff7e8d3de887c4fb3d740e3611a12434ca8) Upload assets/sounds/brake_loop.wav — **khenrique99/ETS2---Airbrake-Audio**
+- [`3e0c081`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/3e0c081e0b2ecdd47a6d6eeda5fade3296c040a5) Delete assets/sounds/brake_loop.wav — **khenrique99/ETS2---Airbrake-Audio**
+- [`52065da`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/52065da0b3e825f0b9604dd5a3334575c3d2170f) docs(changelog): write entries in Portuguese and English, pt-BR first — **khenrique99/ETS2---Airbrake-Audio**
+- [`b8750a9`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/b8750a945dd0841b212fc41d5f50f091af2b367b) docs(credits): list pt-BR first, then en, in every section — **khenrique99/ETS2---Airbrake-Audio**
+- [`2377ae0`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/2377ae01ae12e260f35d9e7e3dd538e7d775862e) docs(config): document every ini option in Portuguese and English — **khenrique99/ETS2---Airbrake-Audio**
 <!--END_COMMITS-->
 
 ### Contribuições
