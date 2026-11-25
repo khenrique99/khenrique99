@@ -93,11 +93,11 @@ Especialista em **Laravel**, com atuação full stack nos ecossistemas PHP, Java
 
 <!-- Esta lista é preenchida automaticamente pelo workflow update-commits.yml -->
 <!--START_COMMITS-->
-- [`962b843`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/962b84395d71c89c0ee08c07eb0a754ff4ad9bf1) feat: initial trailer control plugin (v0.1.0) — **khenrique99/ETS2---Trailer-Control**
-- [`ba0b565`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/ba0b5656e51c55b74c7ae506ba475486e3a812e9) chore(release): 1.0.0 — **khenrique99/ETS2---Airbrake-Audio**
-- [`3e9c939`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/3e9c9398b8d7e8741f80d363cf5f8bc50b05f1b0) docs(readme): document the settings page and mark 1.0.0 as stable — **khenrique99/ETS2---Airbrake-Audio**
-- [`240f5bc`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/240f5bc0576b1d9fd6178b3609ae4e03697a0f44) feat(ui): add settings page opened by a hotkey — **khenrique99/ETS2---Airbrake-Audio**
-- [`c1b316d`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/c1b316d628346fcb57aefc8fba84e5f176ce3d4c) docs(changelog): add 0.1.0 — **khenrique99/ETS2---Airbrake-Audio**
+- [`d82b12f`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/d82b12ff53b85024c279714c889cabad542c4aab) chore(release): v0.2.0+ets2.1.62 — **khenrique99/ETS2---Trailer-Control**
+- [`23149d1`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/23149d1d07e6e70da91697b9fe9272c1a5a2bdb8) docs: update roadmap with v0.2 progress — **khenrique99/ETS2---Trailer-Control**
+- [`5b6ae3d`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/5b6ae3d8a98eea284df9b58c08e3ea8d1240a559) docs: add install, usage and in-game test guides in pt-BR and English — **khenrique99/ETS2---Trailer-Control**
+- [`39f447a`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/39f447a5ab3e3cd7c639a2cc2c6ecaa68121d1ad) feat: add coupling window and internal joint coupling for ETS2 1.62.3.3 — **khenrique99/ETS2---Trailer-Control**
+- [`3ab73b9`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/3ab73b9f64efc2096c810dc192bb9ae84d1600b1) re: map trailer coupling in eurotrucks2.exe 1.62.3.3 — **khenrique99/ETS2---Trailer-Control**
 <!--END_COMMITS-->
 
 ### Contribuições
