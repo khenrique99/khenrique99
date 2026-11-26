@@ -93,11 +93,11 @@ Especialista em **Laravel**, com atuação full stack nos ecossistemas PHP, Java
 
 <!-- Esta lista é preenchida automaticamente pelo workflow update-commits.yml -->
 <!--START_COMMITS-->
+- [`a217e34`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/a217e34a0e05cf5c2b57c5e42239bf09417e3972) chore(release): v0.3.1 — **khenrique99/ETS2---Trailer-Control**
+- [`4fbd234`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/4fbd2346629492f0289cfb1dc1b27871b554b222) chore(release): bump version to 0.3.1 — **khenrique99/ETS2---Trailer-Control**
+- [`70b1765`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/70b176575f4083a391058feea5d17a527f7b2c0f) fix(memory): remove hoses when uncoupling internal joints — **khenrique99/ETS2---Trailer-Control**
 - [`7325f51`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/7325f511f61990b5030ecc20f2cb0537a09ee10b) chore(release): v0.3.0+ets2.1.62 — **khenrique99/ETS2---Trailer-Control**
 - [`f4a28a5`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/f4a28a5cc6cb56d056ad893a2cc40e3dbe92d3a2) chore(release): bump version to 0.3.0 — **khenrique99/ETS2---Trailer-Control**
-- [`4bfa777`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/4bfa777f7ace4377397b05d41d02c1e29057e0a2) chore: merge dev into main — **khenrique99/ETS2---Trailer-Control**
-- [`34b2891`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/34b28911c71d168c230a7e9de7c5b876d7c89254) docs: switch license to PolyForm Noncommercial 1.0.0 — **khenrique99/ETS2---Trailer-Control**
-- [`65a71f9`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/65a71f9bba7978f68f2964aab668fb6f6d9c51bf) chore(release): v2.0.0+ets2.1.62 — **khenrique99/ETS2---Airbrake-Audio**
 <!--END_COMMITS-->
 
 ### Contribuições
