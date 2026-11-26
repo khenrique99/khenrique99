@@ -93,11 +93,11 @@ Especialista em **Laravel**, com atuação full stack nos ecossistemas PHP, Java
 
 <!-- Esta lista é preenchida automaticamente pelo workflow update-commits.yml -->
 <!--START_COMMITS-->
-- [`d82b12f`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/d82b12ff53b85024c279714c889cabad542c4aab) chore(release): v0.2.0+ets2.1.62 — **khenrique99/ETS2---Trailer-Control**
-- [`23149d1`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/23149d1d07e6e70da91697b9fe9272c1a5a2bdb8) docs: update roadmap with v0.2 progress — **khenrique99/ETS2---Trailer-Control**
-- [`5b6ae3d`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/5b6ae3d8a98eea284df9b58c08e3ea8d1240a559) docs: add install, usage and in-game test guides in pt-BR and English — **khenrique99/ETS2---Trailer-Control**
-- [`39f447a`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/39f447a5ab3e3cd7c639a2cc2c6ecaa68121d1ad) feat: add coupling window and internal joint coupling for ETS2 1.62.3.3 — **khenrique99/ETS2---Trailer-Control**
-- [`3ab73b9`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/3ab73b9f64efc2096c810dc192bb9ae84d1600b1) re: map trailer coupling in eurotrucks2.exe 1.62.3.3 — **khenrique99/ETS2---Trailer-Control**
+- [`7325f51`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/7325f511f61990b5030ecc20f2cb0537a09ee10b) chore(release): v0.3.0+ets2.1.62 — **khenrique99/ETS2---Trailer-Control**
+- [`f4a28a5`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/f4a28a5cc6cb56d056ad893a2cc40e3dbe92d3a2) chore(release): bump version to 0.3.0 — **khenrique99/ETS2---Trailer-Control**
+- [`4bfa777`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/4bfa777f7ace4377397b05d41d02c1e29057e0a2) chore: merge dev into main — **khenrique99/ETS2---Trailer-Control**
+- [`34b2891`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/34b28911c71d168c230a7e9de7c5b876d7c89254) docs: switch license to PolyForm Noncommercial 1.0.0 — **khenrique99/ETS2---Trailer-Control**
+- [`65a71f9`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/65a71f9bba7978f68f2964aab668fb6f6d9c51bf) chore(release): v2.0.0+ets2.1.62 — **khenrique99/ETS2---Airbrake-Audio**
 <!--END_COMMITS-->
 
 ### Contribuições
