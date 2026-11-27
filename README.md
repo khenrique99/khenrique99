@@ -93,11 +93,11 @@ Especialista em **Laravel**, com atuação full stack nos ecossistemas PHP, Java
 
 <!-- Esta lista é preenchida automaticamente pelo workflow update-commits.yml -->
 <!--START_COMMITS-->
+- [`fdb441f`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/fdb441f69f332bc0aa2c9a87f05fc78399dad280) chore(release): v0.3.2 — **khenrique99/ETS2---Trailer-Control**
+- [`f715a27`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/f715a27b56f7e5d6cbd14d05b00b4a0214ea6f8f) chore(release): bump version to 0.3.2 — **khenrique99/ETS2---Trailer-Control**
+- [`57c571b`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/57c571b4a939ee092db81a12099451b4a3894b18) re(tools): add ghidra script to list reads of trailer chain fields — **khenrique99/ETS2---Trailer-Control**
+- [`1972e97`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/1972e979dd6c26a3ccf9da47499ac5145c3c7448) fix(memory): keep detached trailers out of hoses and camera length — **khenrique99/ETS2---Trailer-Control**
 - [`f59b535`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/f59b5351e60bfebd70552bfaee763d572dc8afbb) chore(release): v2.1.0+ets2.1.62 — **khenrique99/ETS2---Airbrake-Audio**
-- [`025154d`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/025154d86c0272b3373a5b0a3d1a48c47c88ad7a) feat(brake): merge low/high temperature brake loops — **khenrique99/ETS2---Airbrake-Audio**
-- [`6fadb63`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/6fadb633d16d1ad951de7d19386aa7fa0b3434bd) build: prepare release 2.1.0 — **khenrique99/ETS2---Airbrake-Audio**
-- [`210a333`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/210a333b08f86410e8514f97a2122eb4db1cf299) feat(brake): add low/high temperature brake loops and gate air release on high mode — **khenrique99/ETS2---Airbrake-Audio**
-- [`a217e34`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/a217e34a0e05cf5c2b57c5e42239bf09417e3972) chore(release): v0.3.1 — **khenrique99/ETS2---Trailer-Control**
 <!--END_COMMITS-->
 
 ### Contribuições
