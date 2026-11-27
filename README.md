@@ -93,11 +93,11 @@ Especialista em **Laravel**, com atuação full stack nos ecossistemas PHP, Java
 
 <!-- Esta lista é preenchida automaticamente pelo workflow update-commits.yml -->
 <!--START_COMMITS-->
+- [`f59b535`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/f59b5351e60bfebd70552bfaee763d572dc8afbb) chore(release): v2.1.0+ets2.1.62 — **khenrique99/ETS2---Airbrake-Audio**
+- [`025154d`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/025154d86c0272b3373a5b0a3d1a48c47c88ad7a) feat(brake): merge low/high temperature brake loops — **khenrique99/ETS2---Airbrake-Audio**
+- [`6fadb63`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/6fadb633d16d1ad951de7d19386aa7fa0b3434bd) build: prepare release 2.1.0 — **khenrique99/ETS2---Airbrake-Audio**
+- [`210a333`](https://github.com/khenrique99/ETS2---Airbrake-Audio/commit/210a333b08f86410e8514f97a2122eb4db1cf299) feat(brake): add low/high temperature brake loops and gate air release on high mode — **khenrique99/ETS2---Airbrake-Audio**
 - [`a217e34`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/a217e34a0e05cf5c2b57c5e42239bf09417e3972) chore(release): v0.3.1 — **khenrique99/ETS2---Trailer-Control**
-- [`4fbd234`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/4fbd2346629492f0289cfb1dc1b27871b554b222) chore(release): bump version to 0.3.1 — **khenrique99/ETS2---Trailer-Control**
-- [`70b1765`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/70b176575f4083a391058feea5d17a527f7b2c0f) fix(memory): remove hoses when uncoupling internal joints — **khenrique99/ETS2---Trailer-Control**
-- [`7325f51`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/7325f511f61990b5030ecc20f2cb0537a09ee10b) chore(release): v0.3.0+ets2.1.62 — **khenrique99/ETS2---Trailer-Control**
-- [`f4a28a5`](https://github.com/khenrique99/ETS2---Trailer-Control/commit/f4a28a5cc6cb56d056ad893a2cc40e3dbe92d3a2) chore(release): bump version to 0.3.0 — **khenrique99/ETS2---Trailer-Control**
 <!--END_COMMITS-->
 
 ### Contribuições
